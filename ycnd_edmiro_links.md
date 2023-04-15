@@ -40,13 +40,13 @@
 
 ## slide 17
 
-[The Pentester Bluepring](https://www.wiley.com/en-us/The+Pentester+BluePrint%3A+Starting+a+Career+as+an+Ethical+Hacker-p-9781119684305)
+[The Pentester Blueprint](https://www.wiley.com/en-us/The+Pentester+BluePrint%3A+Starting+a+Career+as+an+Ethical+Hacker-p-9781119684305)
 
 [No Starch Press](https://nostarch.com/https://nostarch.com/)
 
 [Breaking into Information Security](https://leanpub.com/ltr101-breaking-into-infosec)
 
-[Practical Social ENgineering](https://nostarch.com/practical-social-engineering)
+[Practical Social Engineering](https://nostarch.com/practical-social-engineering)
 
 ## slide 18
 
