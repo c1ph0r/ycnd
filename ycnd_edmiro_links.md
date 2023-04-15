@@ -42,7 +42,7 @@
 
 [The Pentester Blueprint](https://www.wiley.com/en-us/The+Pentester+BluePrint%3A+Starting+a+Career+as+an+Ethical+Hacker-p-9781119684305)
 
-[No Starch Press](https://nostarch.com/https://nostarch.com/)
+[No Starch Press](https://nostarch.com/)
 
 [Breaking into Information Security](https://leanpub.com/ltr101-breaking-into-infosec)
 
